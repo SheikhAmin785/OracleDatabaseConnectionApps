@@ -1,0 +1,6 @@
+@OracleDatabaseConnectionApps_HostAddress = http://localhost:5131
+
+GET {{OracleDatabaseConnectionApps_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
